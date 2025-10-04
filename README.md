@@ -1,4 +1,4 @@
-# Ons
+# Ons :https://github.com/Phionex-m/Ons/releases/tag/v1.0.0
 Ons- Dhikr Reminder Desktop Application | Built with C++ &amp; WinAPI | Helps Muslims remember daily Adhkar with continuous reminders"
 
 # Ons - Dhikr Reminder Application

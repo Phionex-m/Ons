@@ -35,6 +35,7 @@ The application follows a modular architecture with three core files:
 - Maintains continuous loop of reminders
 - Ensures application runs perpetually
 
+
 ## User Interface
 The application interface is documented in the **second-to-last slide** of the PowerPoint presentation available in this repository.
 
